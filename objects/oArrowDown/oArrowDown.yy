@@ -1,19 +1,22 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oGameRhythm",
+  "name": "oArrowDown",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":27,"eventType":9,"isDnD":true,},
   ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oArrowParent","path":"objects/oArrowParent/oArrowParent.yy",},"propertyId":{"name":"vButton","path":"objects/oArrowParent/oArrowParent.yy",},"value":"ord(\"S\")",},
+  ],
   "parent": {
-    "name": "Rhythm",
-    "path": "folders/Objects/Rhythm.yy",
+    "name": "Arrows",
+    "path": "folders/Objects/Rhythm/Arrows.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oArrowParent",
+    "path": "objects/oArrowParent/oArrowParent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -27,11 +30,12 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"vBPM","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"60","varType":1,},
-  ],
+  "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sprArrow",
+    "path": "sprites/sprArrow/sprArrow.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
