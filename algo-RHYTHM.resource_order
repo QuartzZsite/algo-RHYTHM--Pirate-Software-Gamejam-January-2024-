@@ -21,6 +21,7 @@
     {"name":"Shooter","order":1,"path":"folders/Sprites/Shooter.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Background","order":4,"path":"folders/Sprites/Platformer/Background.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"RhythmV2","order":2,"path":"rooms/RhythmV2/RhythmV2.yy",},
@@ -32,6 +33,7 @@
     {"name":"Player","order":1,"path":"sprites/Player/Player.yy",},
     {"name":"oCollectible","order":3,"path":"objects/oCollectible/oCollectible.yy",},
     {"name":"Button","order":2,"path":"sprites/Button/Button.yy",},
+    {"name":"sprPlatformerBackgrounOverlay","order":1,"path":"sprites/sprPlatformerBackgrounOverlay/sprPlatformerBackgrounOverlay.yy",},
     {"name":"oArrowUp","order":3,"path":"objects/oArrowUp/oArrowUp.yy",},
     {"name":"MainMenu","order":1,"path":"rooms/MainMenu/MainMenu.yy",},
     {"name":"oArrowRight","order":2,"path":"objects/oArrowRight/oArrowRight.yy",},

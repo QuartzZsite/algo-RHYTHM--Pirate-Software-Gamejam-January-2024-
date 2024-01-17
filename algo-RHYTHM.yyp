@@ -34,6 +34,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shooter","folderPath":"folders/Sprites/Shooter.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Background","folderPath":"folders/Sprites/Platformer/Background.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sprArrow.aseprite","CopyToMask":-1,"filePath":"datafiles",},
@@ -55,6 +56,7 @@
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},},
     {"id":{"name":"oCollectible","path":"objects/oCollectible/oCollectible.yy",},},
     {"id":{"name":"Button","path":"sprites/Button/Button.yy",},},
+    {"id":{"name":"sprPlatformerBackgrounOverlay","path":"sprites/sprPlatformerBackgrounOverlay/sprPlatformerBackgrounOverlay.yy",},},
     {"id":{"name":"oArrowUp","path":"objects/oArrowUp/oArrowUp.yy",},},
     {"id":{"name":"GoodComment","path":"sprites/GoodComment/GoodComment.yy",},},
     {"id":{"name":"oShootingSight","path":"objects/oShootingSight/oShootingSight.yy",},},
@@ -62,6 +64,7 @@
     {"id":{"name":"oArrowRight","path":"objects/oArrowRight/oArrowRight.yy",},},
     {"id":{"name":"oCommentSpawner","path":"objects/oCommentSpawner/oCommentSpawner.yy",},},
     {"id":{"name":"Platform","path":"sprites/Platform/Platform.yy",},},
+    {"id":{"name":"sprPlatformerBackground","path":"sprites/sprPlatformerBackground/sprPlatformerBackground.yy",},},
     {"id":{"name":"BadComment","path":"sprites/BadComment/BadComment.yy",},},
     {"id":{"name":"Collectible","path":"sprites/Collectible/Collectible.yy",},},
     {"id":{"name":"oPress","path":"objects/oPress/oPress.yy",},},
