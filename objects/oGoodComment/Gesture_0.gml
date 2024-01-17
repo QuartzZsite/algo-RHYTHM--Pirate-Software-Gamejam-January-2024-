@@ -16,6 +16,15 @@ effect_create_above(1, x + 0, y + 0, 0, $FFFF0A0A & $ffffff);
 /// @DnDArgument : "var" "oGameShooter.points"
 oGameShooter.points += 10;
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 08E3710C
+/// @DnDArgument : "soundid" "Shooter_GoodKill2"
+/// @DnDArgument : "gain" "0.7"
+/// @DnDArgument : "pitch" "0.9"
+/// @DnDSaveInfo : "soundid" "Shooter_GoodKill2"
+audio_play_sound(Shooter_GoodKill2, 0, 0, 0.7, undefined, 0.9);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 744234F2

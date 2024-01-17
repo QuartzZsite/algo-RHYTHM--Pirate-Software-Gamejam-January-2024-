@@ -49,6 +49,7 @@
     {"name":"oReset","order":5,"path":"objects/oReset/oReset.yy",},
     {"name":"oGoodComment","order":1,"path":"objects/oGoodComment/oGoodComment.yy",},
     {"name":"oArrowDown","order":1,"path":"objects/oArrowDown/oArrowDown.yy",},
+    {"name":"Shooter_GoodKill2","order":1,"path":"sounds/Shooter_GoodKill2/Shooter_GoodKill2.yy",},
     {"name":"sprArrow","order":1,"path":"sprites/sprArrow/sprArrow.yy",},
     {"name":"oButton","order":2,"path":"objects/oButton/oButton.yy",},
   ],
