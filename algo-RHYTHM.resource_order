@@ -17,11 +17,12 @@
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Platformer","order":3,"path":"folders/Sprites/Platformer.yy",},
+    {"name":"Background","order":4,"path":"folders/Sprites/Platformer/Background.yy",},
     {"name":"Rhythm Game","order":4,"path":"folders/Sprites/Rhythm Game.yy",},
     {"name":"Shooter","order":1,"path":"folders/Sprites/Shooter.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Background","order":4,"path":"folders/Sprites/Platformer/Background.yy",},
+    {"name":"Collectibles","order":5,"path":"folders/Sprites/Platformer/Collectibles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"RhythmV2","order":2,"path":"rooms/RhythmV2/RhythmV2.yy",},
