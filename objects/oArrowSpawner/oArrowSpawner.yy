@@ -11,8 +11,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Rhythm",
-    "path": "folders/Objects/Rhythm.yy",
+    "name": "Arrows",
+    "path": "folders/Objects/Rhythm/Arrows.yy",
   },
   "parentObjectId": null,
   "persistent": false,

@@ -1,6 +1,4 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDAction : YoYo Games.Rooms.Restart_Room
 /// @DnDVersion : 1
-/// @DnDHash : 5E377CF0
-/// @DnDArgument : "room" "MainMenu"
-/// @DnDSaveInfo : "room" "MainMenu"
-room_goto(MainMenu);
+/// @DnDHash : 4B27AA0B
+room_restart();
