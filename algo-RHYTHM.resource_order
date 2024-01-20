@@ -23,6 +23,7 @@
     {"name":"Shooter","order":1,"path":"folders/Sprites/Shooter.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Background","order":3,"path":"folders/Sprites/Rhythm Game/Background.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Rhythm","order":2,"path":"rooms/Rhythm/Rhythm.yy",},
