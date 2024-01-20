@@ -6,15 +6,6 @@ var l0BAE1E25_0;
 l0BAE1E25_0 = keyboard_check_pressed(vButton);
 if (l0BAE1E25_0)
 {
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 2306B817
-	/// @DnDParent : 0BAE1E25
-	/// @DnDArgument : "expr" "vPoints*2"
-	/// @DnDArgument : "expr_relative" "1"
-	/// @DnDArgument : "var" "oGameRhythm.points"
-	oGameRhythm.points += vPoints*2;
-
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 50E07490

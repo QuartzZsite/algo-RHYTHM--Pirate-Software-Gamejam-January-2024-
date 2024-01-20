@@ -3,8 +3,8 @@
 /// @DnDHash : 5719484A
 /// @DnDArgument : "expr" "-10"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "oGameShooter.points"
-oGameShooter.points += -10;
+/// @DnDArgument : "var" "oGamePoints.points"
+oGamePoints.points += -10;
 
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1

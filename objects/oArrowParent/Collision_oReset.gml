@@ -8,5 +8,5 @@ instance_destroy();
 /// @DnDHash : 12C84C19
 /// @DnDArgument : "expr" "-20"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "oGameRhythm.points"
-oGameRhythm.points += -20;
+/// @DnDArgument : "var" "oGamePoints.points"
+oGamePoints.points += -20;

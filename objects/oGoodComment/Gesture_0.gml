@@ -13,8 +13,8 @@ effect_create_above(1, x + 0, y + 0, 0, $FFFF0A0A & $ffffff);
 /// @DnDHash : 08CF8400
 /// @DnDArgument : "expr" "10"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "oGameShooter.points"
-oGameShooter.points += 10;
+/// @DnDArgument : "var" "oGamePoints.points"
+oGamePoints.points += 10;
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
