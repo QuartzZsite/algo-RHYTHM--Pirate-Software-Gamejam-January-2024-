@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Collectible",
-    "path": "sprites/Collectible/Collectible.yy",
+    "name": "sprCollectibleCrop",
+    "path": "sprites/sprCollectibleCrop/sprCollectibleCrop.yy",
   },
   "spriteMaskId": null,
   "visible": true,
