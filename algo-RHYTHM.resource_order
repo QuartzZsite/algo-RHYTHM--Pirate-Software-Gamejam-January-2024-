@@ -28,6 +28,7 @@
     {"name":"sOther","order":6,"path":"folders/Sprites/sOther.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Player","order":6,"path":"folders/Sprites/Platformer/Player.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Rhythm","order":1,"path":"rooms/Rhythm/Rhythm.yy",},
@@ -62,6 +63,7 @@
     {"name":"oGoodComment","order":1,"path":"objects/oGoodComment/oGoodComment.yy",},
     {"name":"oArrowDown","order":1,"path":"objects/oArrowDown/oArrowDown.yy",},
     {"name":"Shooter_GoodKill2","order":1,"path":"sounds/Shooter_GoodKill2/Shooter_GoodKill2.yy",},
+    {"name":"sprPlayerRunning","order":1,"path":"sprites/sprPlayerRunning/sprPlayerRunning.yy",},
     {"name":"sprArrow","order":1,"path":"sprites/sprArrow/sprArrow.yy",},
     {"name":"oButton","order":2,"path":"objects/oButton/oButton.yy",},
   ],

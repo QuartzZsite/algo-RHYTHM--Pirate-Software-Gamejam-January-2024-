@@ -42,6 +42,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"sOther","folderPath":"folders/Sprites/sOther.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Player","folderPath":"folders/Sprites/Platformer/Player.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sprArrow.aseprite","CopyToMask":-1,"filePath":"datafiles",},
@@ -81,6 +82,7 @@
     {"id":{"name":"oObstacle","path":"objects/oObstacle/oObstacle.yy",},},
     {"id":{"name":"sprCollectibleCrop","path":"sprites/sprCollectibleCrop/sprCollectibleCrop.yy",},},
     {"id":{"name":"oBadComment","path":"objects/oBadComment/oBadComment.yy",},},
+    {"id":{"name":"sprPlayerIdle","path":"sprites/sprPlayerIdle/sprPlayerIdle.yy",},},
     {"id":{"name":"EndCinematic","path":"rooms/EndCinematic/EndCinematic.yy",},},
     {"id":{"name":"Obstacle","path":"sprites/Obstacle/Obstacle.yy",},},
     {"id":{"name":"RedBox","path":"sprites/RedBox/RedBox.yy",},},
@@ -97,6 +99,7 @@
     {"id":{"name":"oGoodComment","path":"objects/oGoodComment/oGoodComment.yy",},},
     {"id":{"name":"oArrowDown","path":"objects/oArrowDown/oArrowDown.yy",},},
     {"id":{"name":"Shooter_GoodKill2","path":"sounds/Shooter_GoodKill2/Shooter_GoodKill2.yy",},},
+    {"id":{"name":"sprPlayerRunning","path":"sprites/sprPlayerRunning/sprPlayerRunning.yy",},},
     {"id":{"name":"sprArrow","path":"sprites/sprArrow/sprArrow.yy",},},
     {"id":{"name":"oButton","path":"objects/oButton/oButton.yy",},},
     {"id":{"name":"Shooter_BadKill","path":"sounds/Shooter_BadKill/Shooter_BadKill.yy",},},
