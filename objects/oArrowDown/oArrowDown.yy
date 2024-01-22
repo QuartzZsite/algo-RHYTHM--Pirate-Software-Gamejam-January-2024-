@@ -9,6 +9,7 @@
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oArrowParent","path":"objects/oArrowParent/oArrowParent.yy",},"propertyId":{"name":"vButton","path":"objects/oArrowParent/oArrowParent.yy",},"value":"ord(\"S\")",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oArrowParent","path":"objects/oArrowParent/oArrowParent.yy",},"propertyId":{"name":"vArrowKeys","path":"objects/oArrowParent/oArrowParent.yy",},"value":"vk_down",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oArrowParent","path":"objects/oArrowParent/oArrowParent.yy",},"propertyId":{"name":"vButton2","path":"objects/oArrowParent/oArrowParent.yy",},"value":"ord(\"G\")",},
   ],
   "parent": {
     "name": "Arrows",

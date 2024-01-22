@@ -31,6 +31,7 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"vButton","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"ord(\"W\")","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"vPoints","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"10","varType":1,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"vArrowKeys","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"vk_up","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"vButton2","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"ord(\"F\")","varType":0,},
   ],
   "solid": false,
   "spriteId": null,

@@ -49,3 +49,29 @@ if (l0CE337C3_0)
 	/// @DnDArgument : "color" "$FF000000"
 	effect_create_above(1, x + 0, y + 0, 0, $FF000000 & $ffffff);
 }
+
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
+/// @DnDVersion : 1
+/// @DnDHash : 75ED7E90
+/// @DnDArgument : "key" "vButton2"
+var l75ED7E90_0;
+l75ED7E90_0 = keyboard_check_pressed(vButton2);
+if (l75ED7E90_0)
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 5AA87A30
+	/// @DnDParent : 75ED7E90
+	instance_destroy();
+
+	/// @DnDAction : YoYo Games.Particles.Effect
+	/// @DnDVersion : 1
+	/// @DnDHash : 067F6554
+	/// @DnDParent : 75ED7E90
+	/// @DnDArgument : "x_relative" "1"
+	/// @DnDArgument : "y_relative" "1"
+	/// @DnDArgument : "type" "1"
+	/// @DnDArgument : "where" "1"
+	/// @DnDArgument : "color" "$FF000000"
+	effect_create_above(1, x + 0, y + 0, 0, $FF000000 & $ffffff);
+}

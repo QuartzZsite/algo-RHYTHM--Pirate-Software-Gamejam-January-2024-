@@ -33,5 +33,5 @@
     "path": "sprites/End/End.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
