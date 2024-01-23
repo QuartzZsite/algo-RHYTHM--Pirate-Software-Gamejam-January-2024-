@@ -77,6 +77,7 @@
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"oArrowRight","path":"objects/oArrowRight/oArrowRight.yy",},},
     {"id":{"name":"oCommentSpawner","path":"objects/oCommentSpawner/oCommentSpawner.yy",},},
+    {"id":{"name":"sprMenu","path":"sprites/sprMenu/sprMenu.yy",},},
     {"id":{"name":"Platform","path":"sprites/Platform/Platform.yy",},},
     {"id":{"name":"sprPlayerRunning_1","path":"sprites/sprPlayerRunning_1/sprPlayerRunning_1.yy",},},
     {"id":{"name":"sprPlatformerBackground","path":"sprites/sprPlatformerBackground/sprPlatformerBackground.yy",},},
