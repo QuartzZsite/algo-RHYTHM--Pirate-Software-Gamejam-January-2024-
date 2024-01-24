@@ -15,5 +15,6 @@ oGamePoints.points += -20;
 /// @DnDVersion : 1.1
 /// @DnDHash : 47437589
 /// @DnDArgument : "soundid" "Rhythm_MissedNote"
+/// @DnDArgument : "gain" ".2"
 /// @DnDSaveInfo : "soundid" "Rhythm_MissedNote"
-audio_play_sound(Rhythm_MissedNote, 0, 0, 1.0, undefined, 1.0);
+audio_play_sound(Rhythm_MissedNote, 0, 0, .2, undefined, 1.0);
