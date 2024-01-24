@@ -10,3 +10,10 @@ instance_destroy();
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "oGamePoints.points"
 oGamePoints.points += -20;
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 47437589
+/// @DnDArgument : "soundid" "Rhythm_MissedNote"
+/// @DnDSaveInfo : "soundid" "Rhythm_MissedNote"
+audio_play_sound(Rhythm_MissedNote, 0, 0, 1.0, undefined, 1.0);

@@ -44,6 +44,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"sOther","folderPath":"folders/Sprites/sOther.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"RhythmSounds","folderPath":"folders/Sounds/RhythmSounds.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"PlatformerSounds","folderPath":"folders/Sounds/PlatformerSounds.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"ShooterSounds","folderPath":"folders/Sounds/ShooterSounds.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sprArrow.aseprite","CopyToMask":-1,"filePath":"datafiles",},
@@ -102,6 +105,7 @@
     {"id":{"name":"End","path":"sprites/End/End.yy",},},
     {"id":{"name":"oArrowSpawner","path":"objects/oArrowSpawner/oArrowSpawner.yy",},},
     {"id":{"name":"Sight","path":"sprites/Sight/Sight.yy",},},
+    {"id":{"name":"RhythmMusicNotes","path":"timelines/RhythmMusicNotes/RhythmMusicNotes.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oReset","path":"objects/oReset/oReset.yy",},},
     {"id":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},

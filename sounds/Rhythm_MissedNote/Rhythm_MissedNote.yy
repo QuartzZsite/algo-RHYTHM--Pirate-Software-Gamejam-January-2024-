@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 0.711882,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "RhythmSounds",
+    "path": "folders/Sounds/RhythmSounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,

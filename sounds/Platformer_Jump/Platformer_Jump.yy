@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 0.287347,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "PlatformerSounds",
+    "path": "folders/Sounds/PlatformerSounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,

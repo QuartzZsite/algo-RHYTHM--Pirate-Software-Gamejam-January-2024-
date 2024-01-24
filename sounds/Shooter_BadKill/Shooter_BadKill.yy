@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 0.528662,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "ShooterSounds",
+    "path": "folders/Sounds/ShooterSounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,
