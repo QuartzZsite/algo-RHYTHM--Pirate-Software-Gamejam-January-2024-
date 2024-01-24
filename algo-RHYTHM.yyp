@@ -104,6 +104,7 @@
     {"id":{"name":"Platformer_Pickup","path":"sounds/Platformer_Pickup/Platformer_Pickup.yy",},},
     {"id":{"name":"End","path":"sprites/End/End.yy",},},
     {"id":{"name":"oArrowSpawner","path":"objects/oArrowSpawner/oArrowSpawner.yy",},},
+    {"id":{"name":"oExtraFuctions","path":"objects/oExtraFuctions/oExtraFuctions.yy",},},
     {"id":{"name":"Sight","path":"sprites/Sight/Sight.yy",},},
     {"id":{"name":"RhythmMusicNotes","path":"timelines/RhythmMusicNotes/RhythmMusicNotes.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
