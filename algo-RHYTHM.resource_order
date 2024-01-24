@@ -64,6 +64,7 @@
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oReset","order":2,"path":"objects/oReset/oReset.yy",},
     {"name":"Settings","order":2,"path":"rooms/Settings/Settings.yy",},
+    {"name":"oExitButton","order":7,"path":"objects/oExitButton/oExitButton.yy",},
     {"name":"oGoodComment","order":1,"path":"objects/oGoodComment/oGoodComment.yy",},
     {"name":"oArrowDown","order":1,"path":"objects/oArrowDown/oArrowDown.yy",},
     {"name":"Shooter_GoodKill2","order":1,"path":"sounds/Shooter_GoodKill2/Shooter_GoodKill2.yy",},
