@@ -35,8 +35,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Player",
-    "path": "sprites/Player/Player.yy",
+    "name": "sprPlayerRunning",
+    "path": "sprites/sprPlayerRunning/sprPlayerRunning.yy",
   },
   "spriteMaskId": null,
   "visible": true,
