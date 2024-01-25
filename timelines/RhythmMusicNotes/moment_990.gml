@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 4050A512
-/// @DnDArgument : "expr" "12"
+/// @DnDArgument : "expr" "13"
 /// @DnDArgument : "var" "vArrowSpawn"
-vArrowSpawn = 12;
+vArrowSpawn = 13;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

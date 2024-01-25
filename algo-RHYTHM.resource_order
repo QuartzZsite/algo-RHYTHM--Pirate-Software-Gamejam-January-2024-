@@ -59,7 +59,6 @@
     {"name":"BadComment","order":2,"path":"sprites/BadComment/BadComment.yy",},
     {"name":"LateMidCinematic","order":4,"path":"rooms/LateMidCinematic/LateMidCinematic.yy",},
     {"name":"Rhythm_Music","order":1,"path":"sounds/Rhythm_Music/Rhythm_Music.yy",},
-    {"name":"Collectible","order":2,"path":"sprites/Collectible/Collectible.yy",},
     {"name":"oPress","order":1,"path":"objects/oPress/oPress.yy",},
     {"name":"oObstacle","order":2,"path":"objects/oObstacle/oObstacle.yy",},
     {"name":"oBadComment","order":3,"path":"objects/oBadComment/oBadComment.yy",},
