@@ -39,7 +39,7 @@
   "origin": 0,
   "parent": {
     "name": "Player",
-    "path": "folders/Sprites/Platformer/Player.yy",
+    "path": "folders/Sprites/Player.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
