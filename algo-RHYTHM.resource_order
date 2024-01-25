@@ -47,6 +47,7 @@
     {"name":"oCollectible","order":3,"path":"objects/oCollectible/oCollectible.yy",},
     {"name":"PlaceHolder","order":1,"path":"sprites/PlaceHolder/PlaceHolder.yy",},
     {"name":"EarlyMidCinematic","order":3,"path":"rooms/EarlyMidCinematic/EarlyMidCinematic.yy",},
+    {"name":"Shooter_MusicLoop","order":4,"path":"sounds/Shooter_MusicLoop/Shooter_MusicLoop.yy",},
     {"name":"sprPlatformerBackgrounOverlay","order":1,"path":"sprites/sprPlatformerBackgrounOverlay/sprPlatformerBackgrounOverlay.yy",},
     {"name":"oEndPlaceHolder","order":1,"path":"objects/oEndPlaceHolder/oEndPlaceHolder.yy",},
     {"name":"oArrowUp","order":3,"path":"objects/oArrowUp/oArrowUp.yy",},
