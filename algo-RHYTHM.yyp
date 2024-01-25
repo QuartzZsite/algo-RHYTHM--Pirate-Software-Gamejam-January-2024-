@@ -18,6 +18,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Cinematics","folderPath":"folders/Objects/Cinematics.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"MainMenu","folderPath":"folders/Objects/MainMenu.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"oOther","folderPath":"folders/Objects/oOther.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Platformer","folderPath":"folders/Objects/Platformer.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rhythm","folderPath":"folders/Objects/Rhythm.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Arrows","folderPath":"folders/Objects/Rhythm/Arrows.yy",},
@@ -49,7 +50,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"sOther","folderPath":"folders/Sprites/sOther.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"oOther","folderPath":"folders/Objects/oOther.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sprArrow.aseprite","CopyToMask":-1,"filePath":"datafiles",},

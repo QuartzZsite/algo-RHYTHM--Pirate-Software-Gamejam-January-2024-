@@ -7,6 +7,7 @@
     {"name":"Objects","order":9,"path":"folders/Objects.yy",},
     {"name":"Cinematics","order":5,"path":"folders/Objects/Cinematics.yy",},
     {"name":"MainMenu","order":1,"path":"folders/Objects/MainMenu.yy",},
+    {"name":"oOther","order":8,"path":"folders/Objects/oOther.yy",},
     {"name":"Platformer","order":3,"path":"folders/Objects/Platformer.yy",},
     {"name":"Shooter","order":2,"path":"folders/Objects/Shooter.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
@@ -35,7 +36,6 @@
     {"name":"sOther","order":3,"path":"folders/Sprites/sOther.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"oOther","order":8,"path":"folders/Objects/oOther.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sprCorrectNote","order":3,"path":"sprites/sprCorrectNote/sprCorrectNote.yy",},
