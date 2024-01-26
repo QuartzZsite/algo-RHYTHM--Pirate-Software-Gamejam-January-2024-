@@ -36,6 +36,7 @@
     {"name":"sOther","order":3,"path":"folders/Sprites/sOther.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"menuSounds","order":10,"path":"folders/Sounds/menuSounds.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sprCorrectNote","order":3,"path":"sprites/sprCorrectNote/sprCorrectNote.yy",},
