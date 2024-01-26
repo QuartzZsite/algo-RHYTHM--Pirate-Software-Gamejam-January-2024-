@@ -86,6 +86,7 @@
     {"id":{"name":"EarlyMidCinematic","path":"rooms/EarlyMidCinematic/EarlyMidCinematic.yy",},},
     {"id":{"name":"sprEndScreenBad","path":"sprites/sprEndScreenBad/sprEndScreenBad.yy",},},
     {"id":{"name":"Shooter_MusicLoop","path":"sounds/Shooter_MusicLoop/Shooter_MusicLoop.yy",},},
+    {"id":{"name":"sprEndButtons","path":"sprites/sprEndButtons/sprEndButtons.yy",},},
     {"id":{"name":"Button","path":"sprites/Button/Button.yy",},},
     {"id":{"name":"sprPlatformerBackgrounOverlay","path":"sprites/sprPlatformerBackgrounOverlay/sprPlatformerBackgrounOverlay.yy",},},
     {"id":{"name":"Platformer_Jump","path":"sounds/Platformer_Jump/Platformer_Jump.yy",},},

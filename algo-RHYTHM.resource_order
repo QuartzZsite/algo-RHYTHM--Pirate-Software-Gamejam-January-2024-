@@ -58,6 +58,7 @@
     {"name":"EarlyMidCinematic","order":3,"path":"rooms/EarlyMidCinematic/EarlyMidCinematic.yy",},
     {"name":"sprEndScreenBad","order":2,"path":"sprites/sprEndScreenBad/sprEndScreenBad.yy",},
     {"name":"Shooter_MusicLoop","order":4,"path":"sounds/Shooter_MusicLoop/Shooter_MusicLoop.yy",},
+    {"name":"sprEndButtons","order":6,"path":"sprites/sprEndButtons/sprEndButtons.yy",},
     {"name":"sprPlatformerBackgrounOverlay","order":1,"path":"sprites/sprPlatformerBackgrounOverlay/sprPlatformerBackgrounOverlay.yy",},
     {"name":"oEnd","order":1,"path":"objects/oEnd/oEnd.yy",},
     {"name":"oArrowUp","order":3,"path":"objects/oArrowUp/oArrowUp.yy",},
