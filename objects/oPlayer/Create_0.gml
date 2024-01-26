@@ -29,3 +29,9 @@ vsp = 0;
 hspWalk = 3.5;
 vspJump = -6;
 canJump = 0;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 44E99BD6
+/// @DnDArgument : "steps" "4080"
+alarm_set(0, 4080);

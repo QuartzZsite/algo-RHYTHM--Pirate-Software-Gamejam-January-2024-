@@ -2,7 +2,7 @@ var _keyRight = keyboard_check(vk_right);
 var _keyLeft = keyboard_check(vk_left);
 var _keyJump = keyboard_check(vk_space);
 var jumped = false;
-x += 2.5;
+x += 2;
 
 hsp = (_keyRight - _keyLeft * 0) *hspWalk;
 vsp = vsp + grv;
@@ -37,6 +37,15 @@ if (place_meeting(x, y + vsp, oPlatform))
 y += vsp;
 
 
-
-
-
+if (vsp == 0)
+{
+	sprite_index = sprPlayerRunning
+}
+else if (vsp < 1)
+{
+	sprite_index = sprPlayerJumpUp
+}
+else if (vsp > 0.5)
+{
+	sprite_index = sprPlayerJumpDown
+} 
