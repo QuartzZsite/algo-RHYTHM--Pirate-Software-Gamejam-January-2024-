@@ -8,3 +8,12 @@ window_set_cursor(cr_arrow);
 /// @DnDVersion : 1
 /// @DnDHash : 2B0B6351
 audio_stop_all();
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 7FB4483C
+/// @DnDArgument : "soundid" "Menu_MusicLoop"
+/// @DnDArgument : "loop" "1"
+/// @DnDArgument : "gain" ".7"
+/// @DnDSaveInfo : "soundid" "Menu_MusicLoop"
+audio_play_sound(Menu_MusicLoop, 0, 1, .7, undefined, 1.0);
