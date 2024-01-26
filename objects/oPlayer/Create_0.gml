@@ -3,26 +3,29 @@
 /// @DnDHash : 56679876
 audio_stop_all();
 
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 26E8EB02
-/// @DnDInput : 2
-/// @DnDArgument : "expr" "14"
-/// @DnDArgument : "var" "jumpSpeed"
-/// @DnDArgument : "var_1" "moveY"
-jumpSpeed = 14;
-moveY = 0;
-
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
-/// @DnDVersion : 1
-/// @DnDHash : 7A946C72
-/// @DnDArgument : "steps" "700"
-alarm_set(0, 700);
-
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
-/// @DnDHash : 17B2139D
+/// @DnDHash : 089ACFF9
 /// @DnDArgument : "soundid" "Platformer_Music_1min"
-/// @DnDArgument : "gain" ".7"
 /// @DnDSaveInfo : "soundid" "Platformer_Music_1min"
-audio_play_sound(Platformer_Music_1min, 0, 0, .7, undefined, 1.0);
+audio_play_sound(Platformer_Music_1min, 0, 0, 1.0, undefined, 1.0);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 70A2468A
+/// @DnDInput : 6
+/// @DnDArgument : "expr" "0.2"
+/// @DnDArgument : "expr_3" "3.5"
+/// @DnDArgument : "expr_4" "-6"
+/// @DnDArgument : "var" "grv"
+/// @DnDArgument : "var_1" "hsp"
+/// @DnDArgument : "var_2" "vsp"
+/// @DnDArgument : "var_3" "hspWalk"
+/// @DnDArgument : "var_4" "vspJump"
+/// @DnDArgument : "var_5" "canJump"
+grv = 0.2;
+hsp = 0;
+vsp = 0;
+hspWalk = 3.5;
+vspJump = -6;
+canJump = 0;
