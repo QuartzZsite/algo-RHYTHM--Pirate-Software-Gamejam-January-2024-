@@ -61,6 +61,7 @@
   },
   "resources": [
     {"id":{"name":"sprCorrectNote","path":"sprites/sprCorrectNote/sprCorrectNote.yy",},},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"Rhythm_MissedNote","path":"sounds/Rhythm_MissedNote/Rhythm_MissedNote.yy",},},
     {"id":{"name":"Rhythm","path":"rooms/Rhythm/Rhythm.yy",},},
     {"id":{"name":"oTransitionEnd","path":"objects/oTransitionEnd/oTransitionEnd.yy",},},
