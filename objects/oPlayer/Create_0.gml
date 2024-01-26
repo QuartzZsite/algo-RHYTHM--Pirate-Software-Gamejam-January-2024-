@@ -14,7 +14,7 @@ audio_play_sound(Platformer_Music_1min, 0, 0, 1.0, undefined, 1.0);
 /// @DnDVersion : 1
 /// @DnDHash : 70A2468A
 /// @DnDInput : 6
-/// @DnDArgument : "expr" "0.2"
+/// @DnDArgument : "expr" "0.27"
 /// @DnDArgument : "expr_3" "3.5"
 /// @DnDArgument : "expr_4" "-6"
 /// @DnDArgument : "var" "grv"
@@ -23,7 +23,7 @@ audio_play_sound(Platformer_Music_1min, 0, 0, 1.0, undefined, 1.0);
 /// @DnDArgument : "var_3" "hspWalk"
 /// @DnDArgument : "var_4" "vspJump"
 /// @DnDArgument : "var_5" "canJump"
-grv = 0.2;
+grv = 0.27;
 hsp = 0;
 vsp = 0;
 hspWalk = 3.5;

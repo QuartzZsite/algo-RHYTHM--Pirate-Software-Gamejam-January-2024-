@@ -2,7 +2,7 @@ var _keyRight = keyboard_check(vk_right);
 var _keyLeft = keyboard_check(vk_left);
 var _keyJump = keyboard_check(vk_space);
 var jumped = false;
-x += 2;
+x += 2.5;
 
 hsp = (_keyRight - _keyLeft * 0) *hspWalk;
 vsp = vsp + grv;
