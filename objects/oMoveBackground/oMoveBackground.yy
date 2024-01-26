@@ -1,17 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oCollectible",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
-  ],
+  "name": "oMoveBackground",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Platformer",
     "path": "folders/Objects/Platformer.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oMoveParent",
+    "path": "objects/oMoveParent/oMoveParent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprCollectibleCrop",
-    "path": "sprites/sprCollectibleCrop/sprCollectibleCrop.yy",
+    "name": "sprPlatformerBackground",
+    "path": "sprites/sprPlatformerBackground/sprPlatformerBackground.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 2DD468D9
-/// @DnDArgument : "expr" "-6"
+/// @DnDHash : 10253AE8
+/// @DnDArgument : "expr" "2"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "x"
-x += -6;
+x += 2;
