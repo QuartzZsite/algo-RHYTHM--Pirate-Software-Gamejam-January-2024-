@@ -82,6 +82,7 @@
     {"name":"RedBox","order":1,"path":"sprites/RedBox/RedBox.yy",},
     {"name":"Platformer_Pickup","order":1,"path":"sounds/Platformer_Pickup/Platformer_Pickup.yy",},
     {"name":"End","order":2,"path":"sprites/End/End.yy",},
+    {"name":"sprTileset","order":1,"path":"sprites/sprTileset/sprTileset.yy",},
     {"name":"oArrowSpawner","order":5,"path":"objects/oArrowSpawner/oArrowSpawner.yy",},
     {"name":"Sight","order":3,"path":"sprites/Sight/Sight.yy",},
     {"name":"first","order":2,"path":"rooms/first/first.yy",},
