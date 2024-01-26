@@ -126,6 +126,7 @@
     {"id":{"name":"oExtraFuctions","path":"objects/oExtraFuctions/oExtraFuctions.yy",},},
     {"id":{"name":"Sight","path":"sprites/Sight/Sight.yy",},},
     {"id":{"name":"RhythmMusicNotes","path":"timelines/RhythmMusicNotes/RhythmMusicNotes.yy",},},
+    {"id":{"name":"Credits","path":"rooms/Credits/Credits.yy",},},
     {"id":{"name":"first","path":"rooms/first/first.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"sprCredits","path":"sprites/sprCredits/sprCredits.yy",},},
@@ -157,6 +158,7 @@
     {"roomId":{"name":"LateMidCinematic","path":"rooms/LateMidCinematic/LateMidCinematic.yy",},},
     {"roomId":{"name":"Shooter","path":"rooms/Shooter/Shooter.yy",},},
     {"roomId":{"name":"EndCinematic","path":"rooms/EndCinematic/EndCinematic.yy",},},
+    {"roomId":{"name":"Credits","path":"rooms/Credits/Credits.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
