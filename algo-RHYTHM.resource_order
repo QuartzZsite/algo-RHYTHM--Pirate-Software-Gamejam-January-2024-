@@ -87,6 +87,7 @@
     {"name":"Sight","order":3,"path":"sprites/Sight/Sight.yy",},
     {"name":"first","order":2,"path":"rooms/first/first.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"sprCredits","order":5,"path":"sprites/sprCredits/sprCredits.yy",},
     {"name":"oReset","order":2,"path":"objects/oReset/oReset.yy",},
     {"name":"oExitButton","order":2,"path":"objects/oExitButton/oExitButton.yy",},
     {"name":"sprPullingOutPhone","order":4,"path":"sprites/sprPullingOutPhone/sprPullingOutPhone.yy",},

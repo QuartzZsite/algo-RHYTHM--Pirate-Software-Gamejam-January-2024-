@@ -128,6 +128,7 @@
     {"id":{"name":"RhythmMusicNotes","path":"timelines/RhythmMusicNotes/RhythmMusicNotes.yy",},},
     {"id":{"name":"first","path":"rooms/first/first.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"sprCredits","path":"sprites/sprCredits/sprCredits.yy",},},
     {"id":{"name":"oReset","path":"objects/oReset/oReset.yy",},},
     {"id":{"name":"oExitButton","path":"objects/oExitButton/oExitButton.yy",},},
     {"id":{"name":"sprPullingOutPhone","path":"sprites/sprPullingOutPhone/sprPullingOutPhone.yy",},},
