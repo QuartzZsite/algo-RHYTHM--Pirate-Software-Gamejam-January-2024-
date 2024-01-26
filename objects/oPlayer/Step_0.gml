@@ -1,7 +1,7 @@
 var _keyRight = keyboard_check(vk_right);
 var _keyLeft = keyboard_check(vk_left);
 var _keyJump = keyboard_check(vk_space);
-
+var jumped = false;
 x += 2;
 
 hsp = (_keyRight - _keyLeft * 0) *hspWalk;
@@ -35,3 +35,8 @@ if (place_meeting(x, y + vsp, oPlatform))
 	vsp = 0;
 }
 y += vsp;
+
+
+
+
+
