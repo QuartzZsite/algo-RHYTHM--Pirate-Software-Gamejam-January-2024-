@@ -9,6 +9,7 @@
   "instanceCreationOrder": [
     {"name":"inst_78AE0C14","path":"rooms/IntroCinematic/IntroCinematic.yy",},
     {"name":"inst_271D5CAF","path":"rooms/IntroCinematic/IntroCinematic.yy",},
+    {"name":"inst_565EAC59","path":"rooms/IntroCinematic/IntroCinematic.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -17,6 +18,9 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oPlaceHolder","path":"objects/oPlaceHolder/oPlaceHolder.yy",},"propertyId":{"name":"Time","path":"objects/oPlaceHolder/oPlaceHolder.yy",},"value":"12",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_271D5CAF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oExtraFuctions","path":"objects/oExtraFuctions/oExtraFuctions.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":256.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_565EAC59","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oTransitionBegining","path":"objects/oTransitionBegining/oTransitionBegining.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oTransitionBegining","path":"objects/oTransitionBegining/oTransitionBegining.yy",},"propertyId":{"name":"speed","path":"objects/oTransitionBegining/oTransitionBegining.yy",},"value":"8",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRAssetLayer","resourceVersion":"1.0","name":"Assets_2","assets":[
         {"resourceType":"GMRSpriteGraphic","resourceVersion":"1.0","name":"graphic_1295DAF5","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"sprLightTop","path":"sprites/sprLightTop/sprLightTop.yy",},"x":320.0,"y":180.0,},

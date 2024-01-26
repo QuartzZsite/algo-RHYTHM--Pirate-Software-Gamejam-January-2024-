@@ -12,16 +12,14 @@ vArrowSpawn = 0;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 4444B361
-/// @DnDArgument : "steps" "95"
-/// @DnDArgument : "alarm" "1"
-alarm_set(1, 95);
+/// @DnDHash : 180340D0
+/// @DnDArgument : "steps" "60"
+/// @DnDArgument : "alarm" "2"
+alarm_set(2, 60);
 
-/// @DnDAction : YoYo Games.Timelines.Set_Timeline
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
-/// @DnDHash : 72ED2DB0
-/// @DnDArgument : "timeline" "RhythmMusicNotes"
-/// @DnDSaveInfo : "timeline" "RhythmMusicNotes"
-timeline_index = RhythmMusicNotes;
-timeline_loop = 0;
-timeline_running = 1;
+/// @DnDHash : 4444B361
+/// @DnDArgument : "steps" "155"
+/// @DnDArgument : "alarm" "1"
+alarm_set(1, 155);
