@@ -32,8 +32,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "GoodComment",
-    "path": "sprites/GoodComment/GoodComment.yy",
+    "name": "sprGoodComment2",
+    "path": "sprites/sprGoodComment2/sprGoodComment2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -32,9 +32,12 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "BadComment",
-    "path": "sprites/BadComment/BadComment.yy",
+    "name": "sprBadComment2",
+    "path": "sprites/sprBadComment2/sprBadComment2.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sprBadComment2",
+    "path": "sprites/sprBadComment2/sprBadComment2.yy",
+  },
   "visible": true,
 }

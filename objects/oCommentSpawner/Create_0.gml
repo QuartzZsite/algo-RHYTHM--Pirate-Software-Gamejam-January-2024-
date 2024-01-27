@@ -7,6 +7,6 @@ alarm_set(0, 3600/vBPM);
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 5D63B36A
-/// @DnDArgument : "steps" "1200"
+/// @DnDArgument : "steps" "3000"
 /// @DnDArgument : "alarm" "1"
-alarm_set(1, 1200);
+alarm_set(1, 3000);

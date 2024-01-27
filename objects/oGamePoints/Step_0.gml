@@ -11,8 +11,8 @@ if(room == 8)
 	/// @DnDParent : 4F926FAE
 	/// @DnDArgument : "var" "points"
 	/// @DnDArgument : "op" "1"
-	/// @DnDArgument : "value" "1000"
-	if(points < 1000)
+	/// @DnDArgument : "value" "1500"
+	if(points < 1500)
 	{
 		/// @DnDAction : YoYo Games.Instances.Set_Sprite
 		/// @DnDVersion : 1
@@ -30,8 +30,8 @@ if(room == 8)
 	/// @DnDParent : 4F926FAE
 	/// @DnDArgument : "var" "points"
 	/// @DnDArgument : "op" "2"
-	/// @DnDArgument : "value" "999"
-	if(points > 999)
+	/// @DnDArgument : "value" "1499"
+	if(points > 1499)
 	{
 		/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDVersion : 1
@@ -39,8 +39,8 @@ if(room == 8)
 		/// @DnDParent : 5F08E77C
 		/// @DnDArgument : "var" "points"
 		/// @DnDArgument : "op" "1"
-		/// @DnDArgument : "value" "1200"
-		if(points < 1200)
+		/// @DnDArgument : "value" "2500"
+		if(points < 2500)
 		{
 			/// @DnDAction : YoYo Games.Instances.Set_Sprite
 			/// @DnDVersion : 1
@@ -59,8 +59,8 @@ if(room == 8)
 	/// @DnDParent : 4F926FAE
 	/// @DnDArgument : "var" "points"
 	/// @DnDArgument : "op" "2"
-	/// @DnDArgument : "value" "1199"
-	if(points > 1199)
+	/// @DnDArgument : "value" "2499"
+	if(points > 2499)
 	{
 		/// @DnDAction : YoYo Games.Instances.Set_Sprite
 		/// @DnDVersion : 1
