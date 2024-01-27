@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 63FF78E7
 /// @DnDArgument : "var" "room"
-/// @DnDArgument : "value" "8"
-if(room == 8)
+/// @DnDArgument : "value" "9"
+if(room == 9)
 {
 	/// @DnDAction : YoYo Games.Drawing.Set_Font
 	/// @DnDVersion : 1
