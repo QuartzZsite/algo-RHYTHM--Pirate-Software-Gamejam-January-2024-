@@ -8,12 +8,14 @@ sounds = irandom_range(1,2);
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
 /// @DnDHash : 3746E5B1
+/// @DnDArgument : "x" "15"
 /// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "5"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "where" "1"
-/// @DnDArgument : "color" "$FFFF0A0A"
-effect_create_above(1, x + 0, y + 0, 0, $FFFF0A0A & $ffffff);
+/// @DnDArgument : "color" "$FF00FF26"
+effect_create_above(1, x + 15, y + 5, 0, $FF00FF26 & $ffffff);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

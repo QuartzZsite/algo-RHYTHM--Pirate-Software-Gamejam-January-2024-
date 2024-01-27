@@ -1,12 +1,14 @@
 /// @DnDAction : YoYo Games.Particles.Effect
 /// @DnDVersion : 1
 /// @DnDHash : 0B2D02D8
+/// @DnDArgument : "x" "15"
 /// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "5"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "where" "1"
-/// @DnDArgument : "color" "$FF11E3FF"
-effect_create_above(1, x + 0, y + 0, 0, $FF11E3FF & $ffffff);
+/// @DnDArgument : "color" "$FF101CFF"
+effect_create_above(1, x + 15, y + 5, 0, $FF101CFF & $ffffff);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

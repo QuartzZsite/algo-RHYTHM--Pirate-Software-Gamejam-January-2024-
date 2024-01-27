@@ -79,6 +79,7 @@
     {"name":"oCommentSpawner","order":2,"path":"objects/oCommentSpawner/oCommentSpawner.yy",},
     {"name":"sprMenu","order":4,"path":"sprites/sprMenu/sprMenu.yy",},
     {"name":"Shooter_PewPew","order":3,"path":"sounds/Shooter_PewPew/Shooter_PewPew.yy",},
+    {"name":"Controls","order":9,"path":"rooms/Controls/Controls.yy",},
     {"name":"sprGoodComment2","order":2,"path":"sprites/sprGoodComment2/sprGoodComment2.yy",},
     {"name":"LevelFail","order":8,"path":"sounds/LevelFail/LevelFail.yy",},
     {"name":"sprPhoneBackground","order":1,"path":"sprites/sprPhoneBackground/sprPhoneBackground.yy",},

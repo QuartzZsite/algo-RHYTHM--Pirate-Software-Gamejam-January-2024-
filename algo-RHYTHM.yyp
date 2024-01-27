@@ -116,6 +116,7 @@
     {"id":{"name":"sprMenu","path":"sprites/sprMenu/sprMenu.yy",},},
     {"id":{"name":"sprCinematic1","path":"sprites/sprCinematic1/sprCinematic1.yy",},},
     {"id":{"name":"Shooter_PewPew","path":"sounds/Shooter_PewPew/Shooter_PewPew.yy",},},
+    {"id":{"name":"Controls","path":"rooms/Controls/Controls.yy",},},
     {"id":{"name":"sprGoodComment2","path":"sprites/sprGoodComment2/sprGoodComment2.yy",},},
     {"id":{"name":"sprEndScreenPhone","path":"sprites/sprEndScreenPhone/sprEndScreenPhone.yy",},},
     {"id":{"name":"LevelFail","path":"sounds/LevelFail/LevelFail.yy",},},
@@ -178,6 +179,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"first","path":"rooms/first/first.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
+    {"roomId":{"name":"Controls","path":"rooms/Controls/Controls.yy",},},
     {"roomId":{"name":"IntroCinematic","path":"rooms/IntroCinematic/IntroCinematic.yy",},},
     {"roomId":{"name":"Rhythm","path":"rooms/Rhythm/Rhythm.yy",},},
     {"roomId":{"name":"lateMidCinematic","path":"rooms/lateMidCinematic/lateMidCinematic.yy",},},
