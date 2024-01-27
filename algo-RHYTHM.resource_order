@@ -91,6 +91,7 @@
     {"name":"sprEndScreenGood","order":3,"path":"sprites/sprEndScreenGood/sprEndScreenGood.yy",},
     {"name":"sprGoodComment4","order":4,"path":"sprites/sprGoodComment4/sprGoodComment4.yy",},
     {"name":"oBadComment","order":3,"path":"objects/oBadComment/oBadComment.yy",},
+    {"name":"sprControlsScreen","order":7,"path":"sprites/sprControlsScreen/sprControlsScreen.yy",},
     {"name":"sprCinematic2","order":1,"path":"sprites/sprCinematic2/sprCinematic2.yy",},
     {"name":"Shooter_GoodKill","order":1,"path":"sounds/Shooter_GoodKill/Shooter_GoodKill.yy",},
     {"name":"EndCinematic","order":2,"path":"rooms/EndCinematic/EndCinematic.yy",},
