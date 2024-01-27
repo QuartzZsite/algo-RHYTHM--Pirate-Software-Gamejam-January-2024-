@@ -5,8 +5,8 @@
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "where" "1"
-/// @DnDArgument : "color" "$FF0AFFFA"
-effect_create_above(1, x + 0, y + 0, 0, $FF0AFFFA & $ffffff);
+/// @DnDArgument : "color" "$FF0937FF"
+effect_create_above(1, x + 0, y + 0, 0, $FF0937FF & $ffffff);
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1

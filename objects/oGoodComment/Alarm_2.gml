@@ -13,8 +13,8 @@ oGamePoints.points += -10;
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "where" "1"
-/// @DnDArgument : "color" "$FFFF1505"
-effect_create_above(1, x + 0, y + 0, 0, $FFFF1505 & $ffffff);
+/// @DnDArgument : "color" "$FF02FF28"
+effect_create_above(1, x + 0, y + 0, 0, $FF02FF28 & $ffffff);
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
