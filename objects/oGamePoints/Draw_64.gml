@@ -49,8 +49,8 @@ if(room == 8)
 /// @DnDVersion : 1
 /// @DnDHash : 0188C8A9
 /// @DnDArgument : "var" "room"
-/// @DnDArgument : "value" "3"
-if(room == 3)
+/// @DnDArgument : "value" "4"
+if(room == 4)
 {
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
