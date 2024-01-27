@@ -4,8 +4,8 @@
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "color" "$FF7F7F7F"
-effect_create_below(1, x + 0, y + 0, 0, $FF7F7F7F & $ffffff);
+/// @DnDArgument : "color" "$FF12DAE5"
+effect_create_below(1, x + 0, y + 0, 0, $FF12DAE5 & $ffffff);
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
