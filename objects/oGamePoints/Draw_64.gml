@@ -28,21 +28,21 @@ if(room == 8)
 	/// @DnDParent : 63FF78E7
 	/// @DnDArgument : "x" "245"
 	/// @DnDArgument : "y" "340"
-	/// @DnDArgument : "xscale" "1.8"
-	/// @DnDArgument : "yscale" "1.8"
+	/// @DnDArgument : "xscale" "1.75"
+	/// @DnDArgument : "yscale" "1.75"
 	/// @DnDArgument : "caption" ""New Subs""
-	draw_text_transformed(245, 340, string("New Subs") + "", 1.8, 1.8, 0);
+	draw_text_transformed(245, 340, string("New Subs") + "", 1.75, 1.75, 0);
 
 	/// @DnDAction : YoYo Games.Drawing.Draw_Value_Transformed
 	/// @DnDVersion : 1
 	/// @DnDHash : 2FCEAD9B
 	/// @DnDParent : 63FF78E7
-	/// @DnDArgument : "x" "360"
+	/// @DnDArgument : "x" "340"
 	/// @DnDArgument : "y" "390"
 	/// @DnDArgument : "xscale" "2"
 	/// @DnDArgument : "yscale" "2"
 	/// @DnDArgument : "caption" "points"
-	draw_text_transformed(360, 390, string(points) + "", 2, 2, 0);
+	draw_text_transformed(340, 390, string(points) + "", 2, 2, 0);
 }
 
 /// @DnDAction : YoYo Games.Common.If_Variable

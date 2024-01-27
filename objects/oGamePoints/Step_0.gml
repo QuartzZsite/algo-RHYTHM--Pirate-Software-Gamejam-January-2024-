@@ -39,8 +39,8 @@ if(room == 8)
 		/// @DnDParent : 5F08E77C
 		/// @DnDArgument : "var" "points"
 		/// @DnDArgument : "op" "1"
-		/// @DnDArgument : "value" "2500"
-		if(points < 2500)
+		/// @DnDArgument : "value" "2600"
+		if(points < 2600)
 		{
 			/// @DnDAction : YoYo Games.Instances.Set_Sprite
 			/// @DnDVersion : 1
@@ -59,8 +59,8 @@ if(room == 8)
 	/// @DnDParent : 4F926FAE
 	/// @DnDArgument : "var" "points"
 	/// @DnDArgument : "op" "2"
-	/// @DnDArgument : "value" "2499"
-	if(points > 2499)
+	/// @DnDArgument : "value" "2599"
+	if(points > 2599)
 	{
 		/// @DnDAction : YoYo Games.Instances.Set_Sprite
 		/// @DnDVersion : 1

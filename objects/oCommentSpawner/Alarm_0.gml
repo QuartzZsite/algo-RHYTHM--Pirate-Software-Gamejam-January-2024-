@@ -3,14 +3,14 @@
 /// @DnDHash : 76E1B97E
 /// @DnDInput : 3
 /// @DnDArgument : "expr" "irandom_range(1,2)"
-/// @DnDArgument : "expr_1" "irandom_range(135,600)"
-/// @DnDArgument : "expr_2" "irandom_range(70,320)"
+/// @DnDArgument : "expr_1" "irandom_range(135,500)"
+/// @DnDArgument : "expr_2" "irandom_range(70,300)"
 /// @DnDArgument : "var" "spawn"
 /// @DnDArgument : "var_1" "xRange"
 /// @DnDArgument : "var_2" "yRange"
 spawn = irandom_range(1,2);
-xRange = irandom_range(135,600);
-yRange = irandom_range(70,320);
+xRange = irandom_range(135,500);
+yRange = irandom_range(70,300);
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
